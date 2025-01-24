@@ -1,12 +1,5 @@
 {
-  "blogs": [
-    {
-      "id": "17ca",
-      "title": "asda",
-      "body": "sdasd",
-      "author": "asd"
-    }
-  ],
+  "blogs": [],
   "users": [
     {
       "id": "1",
@@ -42,6 +35,11 @@
       "id": "b650",
       "username": "Lesther ",
       "password": "Mark"
+    },
+    {
+      "id": "bf09",
+      "username": "Lesther",
+      "password": "<arl"
     }
   ]
 }
