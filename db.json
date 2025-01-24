@@ -1,0 +1,45 @@
+{
+  "blogs": [],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "id": "2",
+      "username": "user1",
+      "password": "user1pass"
+    },
+    {
+      "id": "ae5b",
+      "username": "asd",
+      "password": "asdasd"
+    },
+    {
+      "id": "58c2",
+      "username": "adsf",
+      "password": "adfd"
+    },
+    {
+      "id": "2ff9",
+      "username": "Mark",
+      "password": "Sanchez"
+    },
+    {
+      "id": "37ad",
+      "username": "mark",
+      "password": "sanchez"
+    },
+    {
+      "id": "b650",
+      "username": "Lesther ",
+      "password": "Mark"
+    },
+    {
+      "id": "bf09",
+      "username": "Lesther",
+      "password": "<arl"
+    }
+  ]
+}
